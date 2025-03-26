@@ -1,0 +1,14 @@
+{
+  "id": "12345",
+  "payment_details": {
+    "account_holder_payer": "1709",
+    "account_holder_receiver": "1785",
+    "amount": 1000,
+    "currency": "USD"
+  },
+  "metadata": {
+    "timestamp": "2024-04-26T12:00:00Z",
+    "payer_account_location": "New York",
+    "receiver_account_location": "London"
+  }
+}
