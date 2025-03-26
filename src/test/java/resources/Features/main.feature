@@ -19,3 +19,4 @@ Feature: Generic API Testing Feature
   # Import additional feature files
   * call read('sample_get.feature')
   * call read('sample_post.feature')
+  * call read('payment_processing.feature')
